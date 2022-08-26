@@ -1,0 +1,20 @@
+body {
+    font-family: 'Open Sans', ‘Popper’, sans-serif;
+}
+
+.accessories {
+    background: linear-gradient(rgba(3, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("../img/header-bg.jpg") center/cover no-repeat;
+}
+
+.products,
+.connect {
+    background-color: #f8f9fa;
+}
+
+.learn {
+    color: #f8f9fa;
+}
+
+.connect {
+    color: #6c757d;
+}
